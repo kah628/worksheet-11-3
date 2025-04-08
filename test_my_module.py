@@ -12,3 +12,7 @@ def test_chooser():
 # Tests Palindrome Number Function
 def test_palindrome():
     assert mm.palindrome_num(121)
+
+# Tests Favorite Number Function
+def test_fav_nums():
+    assert mm.fav_nums()

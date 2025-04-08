@@ -30,3 +30,8 @@ def palindrome_num(num):
     else:
         print(False)
     return True
+
+def fav_nums():
+    fav_nums = [0, 5, 7, 10, 25, 45, 345]
+    print(fav_nums)
+    return True
